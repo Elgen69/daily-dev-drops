@@ -52,7 +52,7 @@ Each file stands alone and highlights a unique concept, such as:
 - `parse.pl`: File I/O in legacy scripting
 
 ## 📌 Philosophy
-> This is not a tutorial repo — it's a **systems thinking lab** built through language exploration.
+> This is not a tutorial repository — it's a **systems thinking lab** built through language exploration.
 
 All samples are maintained to reflect idiomatic practices within each language. Some contain inline comparisons to other languages where useful.
 
