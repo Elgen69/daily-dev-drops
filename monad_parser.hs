@@ -1,4 +1,4 @@
--- monad_parser.hs --
+-- monad_parser.hs
 module Main where
 
 import Control.Applicative
